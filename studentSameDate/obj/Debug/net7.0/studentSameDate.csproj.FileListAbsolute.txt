@@ -1,0 +1,15 @@
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/bin/Debug/net7.0/studentSameDate
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/bin/Debug/net7.0/studentSameDate.deps.json
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/bin/Debug/net7.0/studentSameDate.runtimeconfig.json
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/bin/Debug/net7.0/studentSameDate.dll
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/bin/Debug/net7.0/studentSameDate.pdb
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.csproj.AssemblyReference.cache
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.AssemblyInfoInputs.cache
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.AssemblyInfo.cs
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.csproj.CoreCompileInputs.cache
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.dll
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/refint/studentSameDate.dll
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.pdb
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/studentSameDate.genruntimeconfig.cache
+/Users/khunfloat/Documents/studentSameDate/studentSameDate/obj/Debug/net7.0/ref/studentSameDate.dll
